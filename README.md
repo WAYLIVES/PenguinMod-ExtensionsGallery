@@ -1,4 +1,4 @@
-# Extension Gallery
+# Extension Gallery (hey)
 
 ## Submitting an extension
 ### Step 1.
